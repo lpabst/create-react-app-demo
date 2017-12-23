@@ -26,3 +26,23 @@
   from { transform: rotate(0deg); }
   to { transform: rotate(360deg); }
 }
+
+
+.lorens_div{
+  width: 100%;
+  position: relative;
+  height: 500px;
+  background: #ccc;
+}
+
+
+
+
+
+
+
+
+
+
+
+
